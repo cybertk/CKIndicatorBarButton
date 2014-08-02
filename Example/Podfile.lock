@@ -1,0 +1,17 @@
+PODS:
+  - CKIndicatorButton (0.1.0)
+  - Kiwi (2.3.0)
+
+DEPENDENCIES:
+  - CKIndicatorButton (from `../`)
+  - Kiwi
+
+EXTERNAL SOURCES:
+  CKIndicatorButton:
+    :path: ../
+
+SPEC CHECKSUMS:
+  CKIndicatorButton: f290c39d836c31a0c08435089f918689cb9fc6a7
+  Kiwi: 54bece5b35564d9b8e03c608d926f1a22fcfc589
+
+COCOAPODS: 0.33.1

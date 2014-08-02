@@ -1,0 +1,9 @@
+target 'CKIndicatorButton', :exclusive => true do
+  pod "CKIndicatorButton", :path => "../"
+end
+
+target 'Tests', :exclusive => true do
+  pod "CKIndicatorButton", :path => "../"
+
+  pod 'Kiwi'
+end
