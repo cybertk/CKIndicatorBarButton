@@ -9,9 +9,10 @@ Display Indicator on UIButton and UIBarButtonItem
 
 ## Features
 
-* Disable User Interaction when Indicator start
-* Enable User Interaction when Indicator stop
-* Auto hide keyboard when Indicator Start
+* Disable All User Interaction when start animating
+* Enable All User Interaction when stop animating
+* Hide keyboard when start animating
+* Same API as `UIActivityIndicatorView`
 
 ## Usage
 
